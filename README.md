@@ -1,8 +1,8 @@
-<h1 align="left">Portafolio de Proyectos</h1>
+<h1 align="left">Me llamo Sebastián 👨‍💻</h1>
 
 ###
 
-<h2 align="left">Mi nombre es Sebastián, conoce los proyectos que he desarrollado en SQL, Python, Power Bi y Excel:</h2>
+<h2 align="left">Conoce los proyectos que he desarrollado en SQL, Python, Power Bi y Excel!:</h2>
 
 ###
 
