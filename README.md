@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">SQL 📄<br>----------------------------------------<br>Creación de base de datos en MySQL<br>Importación de datos en MySQL<br>Modelado de datos en MySQL<br>Exploración y normalización de datos en MySQL <br><br>Power Bi 📊<br>----------------------------------------<br>Limpieza de datos con PowerQuery<br>Armados de KPI mediante DAX<br>Creación de Dashboard</p>
+<p align="left">SQL 📄<br>----------------------------------------<br>• Creación de base de datos en MySQL<br>• Importación de datos en MySQL<br>• Modelado de datos en MySQL<br>• Exploración y normalización de datos en MySQL <br><br>Power Bi 📊<br>----------------------------------------<br>• Limpieza de datos con PowerQuery<br>• Armados de KPI mediante DAX<br>• Creación de Dashboard</p>
 
 
 ###
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">SQL 📄<br>----------------------------------------<br>Creación de base de datos en MySQL<br>Importación de datos en MySQL<br>Modelado de datos en MySQL<br>Exploración y normalización de datos en MySQL</p>
+<p align="left">SQL 📄<br>----------------------------------------<br>• Creación de base de datos en MySQL<br>• Importación de datos en MySQL<br>• Modelado de datos en MySQL<br>• Exploración y normalización de datos en MySQL</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Power Bi 📊<br>----------------------------------------<br>Limpieza de datos con PowerQuery<br>Armados de KPI mediante DAX<br>Creación de Dashboard</p>
+<p align="left">Power Bi 📊<br>----------------------------------------<br>• Limpieza de datos con PowerQuery<br>• Armados de KPI mediante DAX<br>• Creación de Dashboard</p>
 
 ###
 
