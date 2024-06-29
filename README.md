@@ -15,7 +15,7 @@
 
 ###
 
-![Pizza](Visuals/PizzaTimeDashboard.jpg)
+![Pizza](Visuals/PizzaDashboard.jpg)
 
 
 ###
@@ -36,7 +36,7 @@
 
 ###
 
-![Bike](Visuals/BikeDashboard.jpg)
+![Bike](Visuals/BikeStoreDashboard.jpg)
 
 ###
 
